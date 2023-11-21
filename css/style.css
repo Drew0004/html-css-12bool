@@ -28,6 +28,10 @@
     align-items: center;
 }
 
+.big{
+    min-height: 100px;
+}
+
 .debug-green-background{
     background-color: #00E165;
     border: 1px solid #006CFA;
@@ -40,6 +44,30 @@
 
 .padding{
     padding: 15px;
+}
+
+.start{
+    justify-content: flex-start;
+}
+
+.center{
+    justify-content: center;
+}
+
+.end{
+    justify-content: flex-end;
+}
+
+.top{
+    align-items: flex-start;
+}
+
+.middle{
+    align-items: center;
+}
+
+.bottom{
+    align-items: flex-end;
 }
 
 header .row:nth-child(8){
