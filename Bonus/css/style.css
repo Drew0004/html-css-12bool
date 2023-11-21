@@ -1,0 +1,43 @@
+/* 
+    reset 
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 
+    general 
+*/
+
+
+.container{
+    margin: 0 auto;
+    max-width: 1170px;
+}
+
+.background{
+    min-height: 92px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+/* 
+    header 
+*/
+
+/* 
+    main 
+*/
+
+/* 
+    footer 
+*/
