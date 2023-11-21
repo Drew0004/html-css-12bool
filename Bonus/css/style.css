@@ -26,6 +26,26 @@
     align-items: center;
 }
 
+.black{
+    background-color: black;
+}
+
+.grey1{
+    background-color: #606060;
+}
+
+.grey2{
+    background-color: #2d2d2d;
+}
+
+.grey3{
+    background-color: #212121;
+}
+
+.grey4{
+    background-color: #111111;
+}
+
 
 
 
